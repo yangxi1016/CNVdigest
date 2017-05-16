@@ -1,0 +1,721 @@
+disease_norm_id	disease_name	disease_norm_name	data_source
+MESH:C531604	"visual loss"	"Primary visual agnosia"	MESH
+MESH:C531673	"intracranial pediatric ependymomas."	"Familial ependymoma"	MESH
+MESH:C531673	"pediatric intracranial ependymomas."	"Familial ependymoma"	MESH
+MESH:C535500	"childhood malignancies"	"Epileptic encephalopathy, Lennox-Gastaut type"	MESH
+MESH:C535575	HNSCC	"Carcinoma, squamous cell of head and neck"	MESH
+MESH:C535575	HNSCC)	"Carcinoma, squamous cell of head and neck"	MESH
+MESH:C535575	HNSCC,	"Carcinoma, squamous cell of head and neck"	MESH
+MESH:C535575	HNSCC.	"Carcinoma, squamous cell of head and neck"	MESH
+MESH:C535575	"neck squamous cell carcinoma"	"Carcinoma, squamous cell of head and neck"	MESH
+MESH:C535575	"neck squamous cell carcinomas"	"Carcinoma, squamous cell of head and neck"	MESH
+MESH:C535575	"neck squamous cell carcinomas."	"Carcinoma, squamous cell of head and neck"	MESH
+MESH:C535727	hepatosplenomegaly,	"Dykes Markes Harper syndrome"	MESH
+MESH:C535759	EA	"Congenital myasthenic syndrome with episodic apnea"	MESH
+MESH:C535759	EA)	"Congenital myasthenic syndrome with episodic apnea"	MESH
+MESH:C535759	EA-	"Congenital myasthenic syndrome with episodic apnea"	MESH
+MESH:C535764	gonadotropins	"Eunuchoidism, familial hypogonadotropic"	MESH
+MESH:C536078	HSAS	"Hydrocephalus, X-linked"	MESH
+MESH:C536078	HSAS)	"Hydrocephalus, X-linked"	MESH
+MESH:C536078	"X-linked hydrocephalus"	"Hydrocephalus, X-linked"	MESH
+MESH:C536106	"cardiomyocyte hypertrophy"	"Myostatin-related muscle hypertrophy"	MESH
+MESH:C536106	"clitoris hypertrophy"	"Myostatin-related muscle hypertrophy"	MESH
+MESH:C536106	hypertrophy	"Myostatin-related muscle hypertrophy"	MESH
+MESH:C536106	hypertrophy,	"Myostatin-related muscle hypertrophy"	MESH
+MESH:C536106	hypertrophy.	"Myostatin-related muscle hypertrophy"	MESH
+MESH:C536233	"blepharophimosis-ptosis-epicanthus inversus"	"Blepharophimosis syndrome type 1"	MESH
+MESH:C536233	"blepharophimosis-ptosis-epicanthus inversus syndrome"	"Blepharophimosis syndrome type 1"	MESH
+MESH:C536233	BPES	"Blepharophimosis syndrome type 1"	MESH
+MESH:C536233	"BPES type II"	"Blepharophimosis syndrome type 1"	MESH
+MESH:C536233	"BPES type II the eyelid defect"	"Blepharophimosis syndrome type 1"	MESH
+MESH:C536233	"BPES type II."	"Blepharophimosis syndrome type 1"	MESH
+MESH:C536233	BPES)	"Blepharophimosis syndrome type 1"	MESH
+MESH:C536309	"pigment epithelium defect"	"Patterned dystrophy of retinal pigment epithelium"	MESH
+MESH:C536369	"intravitreal bevacizumab for neovascular"	Angiostrongyliasis	MESH
+MESH:C536503	"dysmorphic facial features,"	"Thakker Donnai syndrome"	MESH
+MESH:C536633	"anomalies, midline defects"	"Schisis association"	MESH
+MESH:C536656	"atrial natriuretic peptide"	"Peptide growth factors deficiency"	MESH
+MESH:C536656	"atrial natriuretic peptide,"	"Peptide growth factors deficiency"	MESH
+MESH:C536679	"intrinsic congenital testicular abnormality,"	"Sohval Soffer syndrome"	MESH
+MESH:C536787	"Autosomal recessive spastic ataxia of Charlevoix-Saguenay"	"Spastic ataxia Charlevoix-Saguenay type"	MESH
+MESH:C536912	"follicular carcinomas"	"follicular carcinomas"	MESH
+MESH:C536912	"follicular carcinomas,"	"follicular carcinomas,"	MESH
+MESH:C537239	"idiopathic moderate testiculopathy;"	"Mengel Konigsmark syndrome"	MESH
+MESH:C537262	"hereditary pancreatitis,"	"Hereditary pancreatitis"	MESH
+MESH:C537373	MRD	"Multicystic renal dysplasia, bilateral"	MESH
+MESH:C537373	MRD)	"Multicystic renal dysplasia, bilateral"	MESH
+MESH:C537423	"saccadic latency,"	"Apraxia, oculomotor, Cogan type"	MESH
+MESH:C537500	"striatal dopaminergic function,"	"Striatonigral degeneration infantile"	MESH
+MESH:C537526	"benign keratotic lesion"	Sclerotylosis	MESH
+MESH:C537672	"contiguous 1q4 syndrome."	"Chromosome 1, monosomy 1q4"	MESH
+MESH:C538090	"epithelial ovarian cancer"	"Ovarian epithelial cancer"	MESH
+MESH:C538219	"metastatic lesions"	"metastatic lesions"	MESH
+MESH:C538250	idiopathic	"Amyopathic dermatomyositis"	MESH
+MESH:C538265	"attenuated amygdala"	"Attenuated familial adenomatous polyposis"	MESH
+MESH:C538265	"attenuated diphtheria"	"Attenuated familial adenomatous polyposis"	MESH
+MESH:C548012	"Diploid tumor"	"Diploid-Triploid Mosaicism"	MESH
+MESH:D000012	ABL	Abetalipoproteinemia	MESH
+MESH:D000013	"congenital abnormalities"	"Congenital Abnormalities"	MESH
+MESH:D000013	"congenital abnormalities,"	"Congenital Abnormalities"	MESH
+MESH:D000013	"congenital anomalies"	"Congenital Abnormalities"	MESH
+MESH:D000013	"congenital anomalies."	"Congenital Abnormalities"	MESH
+MESH:D000168	ACS)	Acrocephalosyndactylia	MESH
+MESH:D000168	ACS,	Acrocephalosyndactylia	MESH
+MESH:D000168	ACS.	Acrocephalosyndactylia	MESH
+MESH:D000230	adenocarcinoma	Adenocarcinoma	MESH
+MESH:D000230	adenocarcinomas)	Adenocarcinoma	MESH
+MESH:D000230	"pancreatic adenocarcinoma."	Adenocarcinoma	MESH
+MESH:D000230	"pancreatic adenocarcinomas,"	Adenocarcinoma	MESH
+MESH:D000236	"adenoma-to-carcinoma of the colorectal tract"	Adenoma	MESH
+MESH:D000236	"adenomas and carcinomas"	Adenoma	MESH
+MESH:D000236	"follicular adenomas,"	Adenoma	MESH
+MESH:D000303	"dysplasic cortex"	"Adrenal Cortex Diseases"	MESH
+MESH:D000782	aneuploidy	Aneuploidy	MESH
+MESH:D000796	hyperplastic	"Angiolymphoid Hyperplasia with Eosinophilia"	MESH
+MESH:D000796	"hyperplastic or neoplastic"	"Angiolymphoid Hyperplasia with Eosinophilia"	MESH
+MESH:D001015	"aortic arch abnormalities."	"Aortic Arch Syndromes"	MESH
+MESH:D001015	"aortic arch anomalies"	"Aortic Arch Syndromes"	MESH
+MESH:D001254	"grade I invasive carcinomas,"	Astrocytoma	MESH
+MESH:D001254	"grade III carcinomas,"	Astrocytoma	MESH
+MESH:D001259	ataxia	Ataxia	MESH
+MESH:D001289	"attention deficit hyperactivity disorder."	"Attention Deficit Disorder with Hyperactivity"	MESH
+MESH:D001321	autism	"Autistic Disorder"	MESH
+MESH:D001321	autism.	"Autistic Disorder"	MESH
+MESH:D001321	"Childhood Autism"	"Autistic Disorder"	MESH
+MESH:D001523	"psychiatric illnesses,"	"Mental Disorders"	MESH
+MESH:D001528	BD	"Behcet Syndrome"	MESH
+MESH:D001528	BD2	"Behcet Syndrome"	MESH
+MESH:D001714	"bipolar disorder"	"Bipolar Disorder"	MESH
+MESH:D001714	"bipolar disorder,"	"Bipolar Disorder"	MESH
+MESH:D001714	"bipolar disorder."	"Bipolar Disorder"	MESH
+MESH:D001749	"bladder cancer"	"Urinary Bladder Neoplasms"	MESH
+MESH:D001749	"bladder cancer,"	"Urinary Bladder Neoplasms"	MESH
+MESH:D001749	"bladder cancer."	"Urinary Bladder Neoplasms"	MESH
+MESH:D001749	"Egyptian bladder cancer"	"Urinary Bladder Neoplasms"	MESH
+MESH:D001752	"myeloid blast crisis."	"Blast Crisis"	MESH
+MESH:D001926	"brain death."	"Brain Death"	MESH
+MESH:D001943	"breast and non-breast cancer"	"Breast Neoplasms"	MESH
+MESH:D001943	"breast cancer"	"Breast Neoplasms"	MESH
+MESH:D001943	"breast cancer,"	"Breast Neoplasms"	MESH
+MESH:D001943	"breast cancer."	"Breast Neoplasms"	MESH
+MESH:D001943	"breast cancers"	"Breast Neoplasms"	MESH
+MESH:D001943	"breast cancers,"	"Breast Neoplasms"	MESH
+MESH:D001943	"breast cancers."	"Breast Neoplasms"	MESH
+MESH:D001943	"breast carcinoma"	"Breast Neoplasms"	MESH
+MESH:D001943	"breast tumors"	"Breast Neoplasms"	MESH
+MESH:D001943	"breast tumors."	"Breast Neoplasms"	MESH
+MESH:D001943	"invasive breast carcinoma"	"Breast Neoplasms"	MESH
+MESH:D001943	"invasive breast carcinoma."	"Breast Neoplasms"	MESH
+MESH:D001943	"invasive breast carcinomas"	"Breast Neoplasms"	MESH
+MESH:D001943	"invasive breast carcinomas."	"Breast Neoplasms"	MESH
+MESH:D001943	"non-breast cancer"	"Breast Neoplasms"	MESH
+MESH:D001943	"non-breast cancers"	"Breast Neoplasms"	MESH
+MESH:D001943	"non-breast cancers."	"Breast Neoplasms"	MESH
+MESH:D001943	"pancreas and breast cancer,"	"Breast Neoplasms"	MESH
+MESH:D001984	"bronchial tumors."	"Bronchial Neoplasms"	MESH
+MESH:D002051	"Burkitt lymphoma"	"Burkitt Lymphoma"	MESH
+MESH:D002051	"Burkitt's lymphoma"	"Burkitt Lymphoma"	MESH
+MESH:D002051	"Burkitt's lymphoma."	"Burkitt Lymphoma"	MESH
+MESH:D002277	carcinoma	Carcinoma	MESH
+MESH:D002291	"papillary carcinomas."	"Carcinoma, Papillary"	MESH
+MESH:D002292	"renal anomalies"	"Carcinoma, Renal Cell"	MESH
+MESH:D002292	"renal anomaly,"	"Carcinoma, Renal Cell"	MESH
+MESH:D002294	"cutaneous squamous cell carcinomas."	"Carcinoma, Squamous Cell"	MESH
+MESH:D002294	"oral squamous cell carcinoma"	"Carcinoma, Squamous Cell"	MESH
+MESH:D002294	"squamous cell carcinoma"	"Carcinoma, Squamous Cell"	MESH
+MESH:D002318	"cardiovascular defect,"	"Cardiovascular Diseases"	MESH
+MESH:D002318	"cardiovascular function"	"Cardiovascular Diseases"	MESH
+MESH:D002318	"cardiovascular function."	"Cardiovascular Diseases"	MESH
+MESH:D002386	cataract	Cataract	MESH
+MESH:D002446	CD	"Celiac Disease"	MESH
+MESH:D002446	CD)	"Celiac Disease"	MESH
+MESH:D002446	CD,	"Celiac Disease"	MESH
+MESH:D002471	"colon tumorigenesis"	"Cell Transformation, Neoplastic"	MESH
+MESH:D002471	"neoplastic transformation"	"Cell Transformation, Neoplastic"	MESH
+MESH:D002583	"cervical carcinoma,"	"Uterine Cervical Neoplasms"	MESH
+MESH:D002583	"cervical tumor"	"Uterine Cervical Neoplasms"	MESH
+MESH:D002658	"developmental delay."	"Developmental Disabilities"	MESH
+MESH:D002690	"Chlamydia pneumoniae"	"Chlamydia Infections"	MESH
+MESH:D002690	"Chlamydia trachomatis MoPn and Chlamydia pneumoniae"	"Chlamydia Infections"	MESH
+MESH:D002690	"Chlamydia trachomatis mouse pneumonitis"	"Chlamydia Infections"	MESH
+MESH:D002833	"choroidal endothelial"	Choroiditis	MESH
+MESH:D002833	"choroidal neovascularisation"	Choroiditis	MESH
+MESH:D002833	"choroidal retinal anastomosis"	Choroiditis	MESH
+MESH:D002833	"choroidal retinal anastomosis,"	Choroiditis	MESH
+MESH:D002833	"myopic choroidal neovascularisation"	Choroiditis	MESH
+MESH:D002833	"myopic choroidal neovascularisation."	Choroiditis	MESH
+MESH:D002869	"Chromosomal aberrations"	"Chromosome Aberrations"	MESH
+MESH:D002869	"chromosomal aberrations,"	"Chromosome Aberrations"	MESH
+MESH:D002869	"chromosomal aberrations."	"Chromosome Aberrations"	MESH
+MESH:D002869	"chromosomal abnormalities"	"Chromosome Aberrations"	MESH
+MESH:D002869	"chromosomal abnormalities,"	"Chromosome Aberrations"	MESH
+MESH:D002869	"chromosomal abnormalities."	"Chromosome Aberrations"	MESH
+MESH:D002869	"chromosome abnormalities"	"Chromosome Aberrations"	MESH
+MESH:D002869	"Chromosome anomalies"	"Chromosome Aberrations"	MESH
+MESH:D002869	"Copy Number Aberration"	"Chromosome Aberrations"	MESH
+MESH:D002869	"numerous chromosomal aberrations"	"Chromosome Aberrations"	MESH
+MESH:D002869	"Several chromosomal aberrations,"	"Chromosome Aberrations"	MESH
+MESH:D003093	"Ulcerative colitis"	"Colitis, Ulcerative"	MESH
+MESH:D003316	"corneal nevovascularization"	"Corneal Diseases"	MESH
+MESH:D003324	"atherosclerosis and coronary artery disease"	"Coronary Artery Disease"	MESH
+MESH:D003324	"coronary artery disease"	"Coronary Artery Disease"	MESH
+MESH:D003333	CVS)	"Coronaviridae Infections"	MESH
+MESH:D003389	"Cranial nerve palsy"	"Cranial Nerve Diseases"	MESH
+MESH:D003398	trigonocephaly	Craniosynostoses	MESH
+MESH:D003398	trigonocephaly,	Craniosynostoses	MESH
+MESH:D003398	"type II trigonocephaly"	Craniosynostoses	MESH
+MESH:D003424	"Crohn's disease)"	"Crohn Disease"	MESH
+MESH:D003456	cryptorchidism	Cryptorchidism	MESH
+MESH:D003456	cryptorchidism,	Cryptorchidism	MESH
+MESH:D003456	"unilateral cryptorchidism,"	Cryptorchidism	MESH
+MESH:D003528	"Adenoid cystic carcinoma"	"Carcinoma, Adenoid Cystic"	MESH
+MESH:D003528	"salivary adenoid cystic carcinoma."	"Carcinoma, Adenoid Cystic"	MESH
+MESH:D003550	CF)	"Cystic Fibrosis"	MESH
+MESH:D003550	"cystic fibrosis"	"Cystic Fibrosis"	MESH
+MESH:D003638	"bilateral testiculopathy"	Deafness	MESH
+MESH:D003638	"bilateral testiculopathy."	Deafness	MESH
+MESH:D003699	"hepatitis D"	"Hepatitis D"	MESH
+MESH:D003919	"Central diabetes insipidus"	"Diabetes Insipidus"	MESH
+MESH:D003920	diabetes	"Diabetes Mellitus"	MESH
+MESH:D003930	"Diabetic Retinopathy"	"Diabetic Retinopathy"	MESH
+MESH:D004062	DGS	"DiGeorge Syndrome"	MESH
+MESH:D004062	DGS)	"DiGeorge Syndrome"	MESH
+MESH:D004062	DGS,	"DiGeorge Syndrome"	MESH
+MESH:D004421	dystonia	Dystonia	MESH
+MESH:D004421	dystonia,	Dystonia	MESH
+MESH:D004487	"intraretinal edema,"	Edema	MESH
+MESH:D004696	endocarditis	Endocarditis	MESH
+MESH:D004701	"endocrine neoplasm"	"Endocrine Gland Neoplasms"	MESH
+MESH:D004806	ependymoma	Ependymoma	MESH
+MESH:D004806	ependymoma)	Ependymoma	MESH
+MESH:D004806	ependymomas	Ependymoma	MESH
+MESH:D004806	ependymomas,	Ependymoma	MESH
+MESH:D004806	ependymomas.	Ependymoma	MESH
+MESH:D004806	"pediatric ependymomas"	Ependymoma	MESH
+MESH:D004806	"pediatric ependymomas."	Ependymoma	MESH
+MESH:D004814	"epidermal hyperplastic"	"Epidermal Cyst"	MESH
+MESH:D005124	"intrachromosome anomalies"	"Eye Abnormalities"	MESH
+MESH:D005141	"eyelid malformation"	"Eyelid Diseases"	MESH
+MESH:D005871	"Castleman's disease"	"Giant Lymph Node Hyperplasia"	MESH
+MESH:D005871	"Castleman's disease:"	"Giant Lymph Node Hyperplasia"	MESH
+MESH:D005910	glioma	Glioma	MESH
+MESH:D005910	gliomas	Glioma	MESH
+MESH:D005910	gliomas,	Glioma	MESH
+MESH:D005910	gliomas:	Glioma	MESH
+MESH:D005910	"Malignant human glioma"	Glioma	MESH
+MESH:D006009	AMD	"Glycogen Storage Disease Type II"	MESH
+MESH:D006009	AMD)	"Glycogen Storage Disease Type II"	MESH
+MESH:D006009	AMD,	"Glycogen Storage Disease Type II"	MESH
+MESH:D006009	AMD.	"Glycogen Storage Disease Type II"	MESH
+MESH:D006009	"neovascular AMD"	"Glycogen Storage Disease Type II"	MESH
+MESH:D006009	"neovascular AMD."	"Glycogen Storage Disease Type II"	MESH
+MESH:D006009	"unilateral AMD."	"Glycogen Storage Disease Type II"	MESH
+MESH:D006130	"short stature,"	"Growth Disorders"	MESH
+MESH:D006130	"vascular endothelial growth"	"Growth Disorders"	MESH
+MESH:D006210	HSS	"Hallermann's Syndrome"	MESH
+MESH:D006210	HSS)	"Hallermann's Syndrome"	MESH
+MESH:D006331	"congenital heart diseases"	"Heart Diseases"	MESH
+MESH:D006332	"cardiac hypertrophy"	Cardiomegaly	MESH
+MESH:D006332	"cardiac hypertrophy."	Cardiomegaly	MESH
+MESH:D006333	"heart failure"	"Heart Failure"	MESH
+MESH:D006345	"ventricular septal defects."	"Heart Septal Defects, Ventricular"	MESH
+MESH:D006402	"hematologic disorders."	"Hematologic Diseases"	MESH
+MESH:D006402	"hematological disorders."	"Hematologic Diseases"	MESH
+MESH:D006509	HBV	"Hepatitis B"	MESH
+MESH:D006509	"HBV seropositivity"	"Hepatitis B"	MESH
+MESH:D006509	HBV)	"Hepatitis B"	MESH
+MESH:D006509	HBV-	"Hepatitis B"	MESH
+MESH:D006509	"hepatitis B virus"	"Hepatitis B"	MESH
+MESH:D006526	"HCV seropositivity."	"Hepatitis C"	MESH
+MESH:D006526	"hepatitis C virus"	"Hepatitis C"	MESH
+MESH:D006528	"liver cancer"	"Carcinoma, Hepatocellular"	MESH
+MESH:D006627	"Hirschsprung disease"	"Hirschsprung Disease"	MESH
+MESH:D006627	"Hirschsprung disease."	"Hirschsprung Disease"	MESH
+MESH:D006679	"HIV seropositivity"	"HIV Seropositivity"	MESH
+MESH:D006679	"HIV seropositivity."	"HIV Seropositivity"	MESH
+MESH:D006679	HIV-positive	"HIV Seropositivity"	MESH
+MESH:D006689	"Hodgkin's disease,"	"Hodgkin Disease"	MESH
+MESH:D006849	"aqueductal stenosis"	Hydrocephalus	MESH
+MESH:D006849	hydrocephalus	Hydrocephalus	MESH
+MESH:D006943	hyperglycemia	Hyperglycemia	MESH
+MESH:D006943	hyperglycemia,	Hyperglycemia	MESH
+MESH:D006943	hyperglycemia.	Hyperglycemia	MESH
+MESH:D007027	"hypothalamic dysfunction"	"Hypothalamic Diseases"	MESH
+MESH:D007119	"angioimmunoblastic lymphadenopathy"	"Immunoblastic Lymphadenopathy"	MESH
+MESH:D007153	"immunodeficiency virus"	"Immunologic Deficiency Syndromes"	MESH
+MESH:D007239	"Chronic infection"	Infection	MESH
+MESH:D007246	"idiopathic infertility."	Infertility	MESH
+MESH:D007246	infertility	Infertility	MESH
+MESH:D007246	"Infertility Committee"	Infertility	MESH
+MESH:D007246	"Infertility Committee,"	Infertility	MESH
+MESH:D007246	infertility,	Infertility	MESH
+MESH:D007248	"male infertility."	"Infertility, Male"	MESH
+MESH:D007248	"male-factor infertility"	"Infertility, Male"	MESH
+MESH:D007249	"chronic inflammation."	Inflammation	MESH
+MESH:D007249	inflammation	Inflammation	MESH
+MESH:D007249	inflammation,	Inflammation	MESH
+MESH:D007642	"lymphomatoid keratosis"	Keratosis	MESH
+MESH:D007642	"lymphomatoid keratosis."	Keratosis	MESH
+MESH:D007642	"Lymphomatoid keratosis:"	Keratosis	MESH
+MESH:D007690	"autosomal dominant polycystic kidney disease"	"Polycystic Kidney Diseases"	MESH
+MESH:D007805	"speech delay"	"Language Development Disorders"	MESH
+MESH:D007938	"acute leukemias"	Leukemia	MESH
+MESH:D007938	"acute leukemias,"	Leukemia	MESH
+MESH:D007938	leukemia	Leukemia	MESH
+MESH:D007938	leukemia,	Leukemia	MESH
+MESH:D007938	leukemia.	Leukemia	MESH
+MESH:D007938	leukemias	Leukemia	MESH
+MESH:D007938	"leukemias and lymphomas."	Leukemia	MESH
+MESH:D007938	leukemias.	Leukemia	MESH
+MESH:D007938	leukemic	Leukemia	MESH
+MESH:D007938	"leukemic counterpart,"	Leukemia	MESH
+MESH:D007951	"acute myelogenous leukemia,"	"Leukemia, Myeloid"	MESH
+MESH:D007951	"acute myeloid leukemia"	"Leukemia, Myeloid"	MESH
+MESH:D007951	"myeloid disorders"	"Leukemia, Myeloid"	MESH
+MESH:D007951	"myeloid malignancies:"	"Leukemia, Myeloid"	MESH
+MESH:D008103	cirrhosis	"Liver Cirrhosis"	MESH
+MESH:D008107	"liver disease"	"Liver Diseases"	MESH
+MESH:D008133	"hyperdiploidy achieved long-"	"Long QT Syndrome"	MESH
+MESH:D008175	"lung cancer"	"Lung Neoplasms"	MESH
+MESH:D008175	"lung cancer,"	"Lung Neoplasms"	MESH
+MESH:D008175	"lung cancer."	"Lung Neoplasms"	MESH
+MESH:D008175	"lung cancers"	"Lung Neoplasms"	MESH
+MESH:D008175	"lung cancers."	"Lung Neoplasms"	MESH
+MESH:D008175	"lung carcinoma"	"Lung Neoplasms"	MESH
+MESH:D008223	"childhood lymphoid malignancies"	Lymphoma	MESH
+MESH:D008223	"childhood lymphoid malignancies."	Lymphoma	MESH
+MESH:D008223	"cutaneous lymphoid hyperplasia"	Lymphoma	MESH
+MESH:D008223	"cutaneous lymphoid hyperplasia."	Lymphoma	MESH
+MESH:D008223	"cutaneous lymphoid hyperplasia:"	Lymphoma	MESH
+MESH:D008223	"epidermotropic type of cutaneous lymphoid hyperplasia:"	Lymphoma	MESH
+MESH:D008223	"Lymphoid Neoplasms"	Lymphoma	MESH
+MESH:D008223	lymphoma	Lymphoma	MESH
+MESH:D008223	lymphoma,	Lymphoma	MESH
+MESH:D008223	lymphoma.	Lymphoma	MESH
+MESH:D008223	lymphomas	Lymphoma	MESH
+MESH:D008223	lymphomas.	Lymphoma	MESH
+MESH:D008223	lymphomat	Lymphoma	MESH
+MESH:D008223	"malignant lymphomas"	Lymphoma	MESH
+MESH:D008223	"systemic lymphoma."	Lymphoma	MESH
+MESH:D008223	"Systemic malignant lymphoma"	Lymphoma	MESH
+MESH:D008223	"systemic malignant lymphoma,"	Lymphoma	MESH
+MESH:D008223	"systemic malignant lymphoma."	Lymphoma	MESH
+MESH:D008228	"non-Hodgkin's lymphoma"	"Lymphoma, Non-Hodgkin"	MESH
+MESH:D008228	"non-Hodgkin's lymphoma)"	"Lymphoma, Non-Hodgkin"	MESH
+MESH:D008228	"non-Hodgkin's lymphoma."	"Lymphoma, Non-Hodgkin"	MESH
+MESH:D008228	"poor prognosis non-Hodgkin's lymphoma"	"Lymphoma, Non-Hodgkin"	MESH
+MESH:D008228	"poor prognosis non-Hodgkin's lymphoma."	"Lymphoma, Non-Hodgkin"	MESH
+MESH:D008230	"lymphomatoid granulomatosis"	"Lymphomatoid Granulomatosis"	MESH
+MESH:D008232	"lymphoproliferative disorders"	"Lymphoproliferative Disorders"	MESH
+MESH:D008268	"macular degeneration"	"Macular Degeneration"	MESH
+MESH:D008268	"macular degeneration."	"Macular Degeneration"	MESH
+MESH:D008269	"cystoid macular edema"	"Macular Edema"	MESH
+MESH:D008545	melanoma,	Melanoma	MESH
+MESH:D008607	"mental retardation"	"Intellectual Disability"	MESH
+MESH:D008607	"mental retardation."	"Intellectual Disability"	MESH
+MESH:D008949	"Carcinoma ex pleomorphic adenoma"	"Adenoma, Pleomorphic"	MESH
+MESH:D008949	"pleomorphic adenoma"	"Adenoma, Pleomorphic"	MESH
+MESH:D008992	"cynomolgus monkey eyes"	"Monkey Diseases"	MESH
+MESH:D009101	"multiple myeloma"	"Multiple Myeloma"	MESH
+MESH:D009101	"multiple myeloma."	"Multiple Myeloma"	MESH
+MESH:D009101	myeloma	"Multiple Myeloma"	MESH
+MESH:D009101	myeloma.	"Multiple Myeloma"	MESH
+MESH:D009134	"lower spinal muscular atrophy"	"Muscular Atrophy, Spinal"	MESH
+MESH:D009134	"spinal muscular atrophy"	"Muscular Atrophy, Spinal"	MESH
+MESH:D009134	"spinal muscular atrophy."	"Muscular Atrophy, Spinal"	MESH
+MESH:D009135	myopathy	"Muscular Diseases"	MESH
+MESH:D009135	myopathy,	"Muscular Diseases"	MESH
+MESH:D009135	myopathy/	"Muscular Diseases"	MESH
+MESH:D009136	dystrophic	"Muscular Dystrophies"	MESH
+MESH:D009136	"dystrophic features,"	"Muscular Dystrophies"	MESH
+MESH:D009182	"mycosis fungoides."	"Mycosis Fungoides"	MESH
+MESH:D009190	"myelodysplastic syndromes"	"Myelodysplastic Syndromes"	MESH
+MESH:D009203	"myocardial infarction,"	"Myocardial Infarction"	MESH
+MESH:D009216	myopia	Myopia	MESH
+MESH:D009216	"myopia and myopic choroidal neovascularisation"	Myopia	MESH
+MESH:D009216	myopia.	Myopia	MESH
+MESH:D009220	"inflammatory disorders"	Myositis	MESH
+MESH:D009361	invasiveness	"Neoplasm Invasiveness"	MESH
+MESH:D009361	"myometrial invasion,"	"Neoplasm Invasiveness"	MESH
+MESH:D009369	-cancer	Neoplasms	MESH
+MESH:D009369	"benign tumors."	Neoplasms	MESH
+MESH:D009369	cancer	Neoplasms	MESH
+MESH:D009369	cancer,	Neoplasms	MESH
+MESH:D009369	cancer-	Neoplasms	MESH
+MESH:D009369	cancer.	Neoplasms	MESH
+MESH:D009369	cancers	Neoplasms	MESH
+MESH:D009369	cancers,	Neoplasms	MESH
+MESH:D009369	cancers.	Neoplasms	MESH
+MESH:D009369	cancer]	Neoplasms	MESH
+MESH:D009369	"childhood cancer"	Neoplasms	MESH
+MESH:D009369	"childhood cancer."	Neoplasms	MESH
+MESH:D009369	"disomic tumors,"	Neoplasms	MESH
+MESH:D009369	"disorders and cancers"	Neoplasms	MESH
+MESH:D009369	"hyperdiploid tumors"	Neoplasms	MESH
+MESH:D009369	"hypertetrasomic tumors"	Neoplasms	MESH
+MESH:D009369	"malignant neoplasms."	Neoplasms	MESH
+MESH:D009369	"Malignant tumours"	Neoplasms	MESH
+MESH:D009369	"metastatic tumor"	Neoplasms	MESH
+MESH:D009369	neoplasm.	Neoplasms	MESH
+MESH:D009369	non-tumorous	Neoplasms	MESH
+MESH:D009369	"solid tumors"	Neoplasms	MESH
+MESH:D009369	"stage D tumors"	Neoplasms	MESH
+MESH:D009369	tumor	Neoplasms	MESH
+MESH:D009369	tumor,	Neoplasms	MESH
+MESH:D009369	tumor-	Neoplasms	MESH
+MESH:D009369	tumor.	Neoplasms	MESH
+MESH:D009369	tumori	Neoplasms	MESH
+MESH:D009369	tumoro	Neoplasms	MESH
+MESH:D009369	tumorous	Neoplasms	MESH
+MESH:D009369	tumors	Neoplasms	MESH
+MESH:D009369	tumors,	Neoplasms	MESH
+MESH:D009369	tumors-	Neoplasms	MESH
+MESH:D009369	tumors.	Neoplasms	MESH
+MESH:D009369	tumour	Neoplasms	MESH
+MESH:D009369	tumours	Neoplasms	MESH
+MESH:D009385	neoplastic	"Neoplastic Processes"	MESH
+MESH:D009396	Wilms,	"Wilms Tumor"	MESH
+MESH:D009422	"neurological disorders."	"Nervous System Diseases"	MESH
+MESH:D009447	"childhood neuroblastoma:"	Neuroblastoma	MESH
+MESH:D009447	"IV-S neuroblastoma)"	Neuroblastoma	MESH
+MESH:D009447	"IV-S neuroblastoma,"	Neuroblastoma	MESH
+MESH:D009447	"IV-S neuroblastoma."	Neuroblastoma	MESH
+MESH:D009447	"metastatic lesions of stage IV-S neuroblastoma."	Neuroblastoma	MESH
+MESH:D009447	"metastatic neuroblastoma."	Neuroblastoma	MESH
+MESH:D009447	neuroblastoma	Neuroblastoma	MESH
+MESH:D009447	neuroblastoma,	Neuroblastoma	MESH
+MESH:D009447	neuroblastoma.	Neuroblastoma	MESH
+MESH:D009447	neuroblastoma:	Neuroblastoma	MESH
+MESH:D009447	"Stage IV neuroblastoma)"	Neuroblastoma	MESH
+MESH:D009765	obesity	Obesity	MESH
+MESH:D009845	oligozoospermia	Oligospermia	MESH
+MESH:D009877	"infectious endophthalmitis"	Endophthalmitis	MESH
+MESH:D009886	"external ophthalmoplegia,"	Ophthalmoplegia	MESH
+MESH:D010038	"otolaryngological anomalies,"	"Otorhinolaryngologic Diseases"	MESH
+MESH:D010038	"otolaryngological or ophthalmic abnormality"	"Otorhinolaryngologic Diseases"	MESH
+MESH:D010051	"kidney and ovarian carcinomas"	"Ovarian Neoplasms"	MESH
+MESH:D010051	"malignant ovarian tumors-"	"Ovarian Neoplasms"	MESH
+MESH:D010051	"ovarian cancer"	"Ovarian Neoplasms"	MESH
+MESH:D010051	"ovarian cancer."	"Ovarian Neoplasms"	MESH
+MESH:D010051	"ovarian tumors"	"Ovarian Neoplasms"	MESH
+MESH:D010051	"ovarian tumors-"	"Ovarian Neoplasms"	MESH
+MESH:D010051	"ovarian tumors."	"Ovarian Neoplasms"	MESH
+MESH:D010051	"tumor stage of ovarian cancer."	"Ovarian Neoplasms"	MESH
+MESH:D010051	"type of ovarian cancer"	"Ovarian Neoplasms"	MESH
+MESH:D010190	"pancreatic cancer"	"Pancreatic Neoplasms"	MESH
+MESH:D010190	"pancreatic cancer,"	"Pancreatic Neoplasms"	MESH
+MESH:D010190	"pancreatic cancer."	"Pancreatic Neoplasms"	MESH
+MESH:D010190	"pancreatic cancers"	"Pancreatic Neoplasms"	MESH
+MESH:D010300	"Parkinson disease"	"Parkinson Disease"	MESH
+MESH:D010300	"Parkinson disease."	"Parkinson Disease"	MESH
+MESH:D010523	"peripheral neuropathy,"	"Peripheral Nervous System Diseases"	MESH
+MESH:D011125	GS	"Adenomatous Polyposis Coli"	MESH
+MESH:D011127	polyps	Polyps	MESH
+MESH:D011127	polyps.	Polyps	MESH
+MESH:D011471	"advanced prostate cancer"	"Prostatic Neoplasms"	MESH
+MESH:D011471	"bladder and prostate cancer,"	"Prostatic Neoplasms"	MESH
+MESH:D011471	"prostate cancer"	"Prostatic Neoplasms"	MESH
+MESH:D011471	"prostate cancer."	"Prostatic Neoplasms"	MESH
+MESH:D011471	"prostate tumour"	"Prostatic Neoplasms"	MESH
+MESH:D011472	prostate	Prostatitis	MESH
+MESH:D011472	"prostate tumor"	Prostatitis	MESH
+MESH:D011472	prostate,	Prostatitis	MESH
+MESH:D011504	"unilateral exudative ARMD"	"Protein-Losing Enteropathies"	MESH
+MESH:D011565	psoriasis	Psoriasis	MESH
+MESH:D011596	"psychomotor retardation"	"Psychomotor Disorders"	MESH
+MESH:D011596	"psychomotor retardation,"	"Psychomotor Disorders"	MESH
+MESH:D011782	"flaccid quadriplegia,"	Quadriplegia	MESH
+MESH:D012131	"respiratory failure"	"Respiratory Insufficiency"	MESH
+MESH:D012162	"Retinal degeneration"	"Retinal Degeneration"	MESH
+MESH:D012162	"retinal degeneration."	"Retinal Degeneration"	MESH
+MESH:D012163	"pigment epithelial detachment"	"Retinal Detachment"	MESH
+MESH:D012174	"rod degeneration"	"Retinitis Pigmentosa"	MESH
+MESH:D012175	retinoblastoma	Retinoblastoma	MESH
+MESH:D012175	"retinoblastoma tumors,"	Retinoblastoma	MESH
+MESH:D012175	retinoblastoma.	Retinoblastoma	MESH
+MESH:D012516	osteosarcomas	Osteosarcoma	MESH
+MESH:D012516	"pediatric osteosarcoma"	Osteosarcoma	MESH
+MESH:D012559	schizophrenia	Schizophrenia	MESH
+MESH:D012559	schizophrenia.	Schizophrenia	MESH
+MESH:D012600	scoliosis.	Scoliosis	MESH
+MESH:D012729	"sex chromosomal anomalies)"	"Sex Chromosome Aberrations"	MESH
+MESH:D013272	"gastric, bladder,"	"Stomach Diseases"	MESH
+MESH:D013274	"DGS of gastric cancer"	"Stomach Neoplasms"	MESH
+MESH:D013274	"gastric cancer"	"Stomach Neoplasms"	MESH
+MESH:D013274	"gastric cancer."	"Stomach Neoplasms"	MESH
+MESH:D013274	"gastric cancers"	"Stomach Neoplasms"	MESH
+MESH:D013274	"gastric cancers:"	"Stomach Neoplasms"	MESH
+MESH:D013274	"gastric carcinomas"	"Stomach Neoplasms"	MESH
+MESH:D013274	"gastric tumors"	"Stomach Neoplasms"	MESH
+MESH:D013398	SIDS	"Sudden Infant Death"	MESH
+MESH:D013398	SIDS)	"Sudden Infant Death"	MESH
+MESH:D013398	SIDS.	"Sudden Infant Death"	MESH
+MESH:D013398	"Sudden infant death syndrome"	"Sudden Infant Death"	MESH
+MESH:D013398	"sudden infant death syndrome."	"Sudden Infant Death"	MESH
+MESH:D013734	AIS	"Androgen-Insensitivity Syndrome"	MESH
+MESH:D013734	AIS)	"Androgen-Insensitivity Syndrome"	MESH
+MESH:D013966	"malignant thyroid lesions,"	Thyroiditis	MESH
+MESH:D013966	"malignant thyroid lesions."	Thyroiditis	MESH
+MESH:D014071	"mtDNA abnormalities"	"Tooth Abnormalities"	MESH
+MESH:D014402	"TSC contiguous gene deletion syndrome"	"Tuberous Sclerosis"	MESH
+MESH:D014402	"TSC2 contiguous"	"Tuberous Sclerosis"	MESH
+MESH:D014402	"TSC2 contiguous gene syndrome."	"Tuberous Sclerosis"	MESH
+MESH:D014402	"tuberous sclerosis"	"Tuberous Sclerosis"	MESH
+MESH:D014564	"Genital anomalies and Retardation"	"Urogenital Abnormalities"	MESH
+MESH:D014591	endometrial	"Uterine Diseases"	MESH
+MESH:D014591	"endometrial adenocarcinoma,"	"Uterine Diseases"	MESH
+MESH:D014591	"endometrial adenocarcinomas"	"Uterine Diseases"	MESH
+MESH:D014657	vasculitis	Vasculitis	MESH
+MESH:D014657	vasculitis.	Vasculitis	MESH
+MESH:D014770	"Androgen insensitivy syndrome"	Virilism	MESH
+MESH:D014786	"Severe vision decrease"	"Vision Disorders"	MESH
+MESH:D015179	"colon and ovary cancer"	"Colorectal Neoplasms"	MESH
+MESH:D015179	"colon and ovary cancers"	"Colorectal Neoplasms"	MESH
+MESH:D015179	"colon and ovary cancers."	"Colorectal Neoplasms"	MESH
+MESH:D015179	"colon and pancreas cancer"	"Colorectal Neoplasms"	MESH
+MESH:D015179	"colon cancer"	"Colorectal Neoplasms"	MESH
+MESH:D015179	"colon tumor"	"Colorectal Neoplasms"	MESH
+MESH:D015179	"colon tumori"	"Colorectal Neoplasms"	MESH
+MESH:D015179	"colon tumors"	"Colorectal Neoplasms"	MESH
+MESH:D015179	colorectal	"Colorectal Neoplasms"	MESH
+MESH:D015179	"Colorectal cancer"	"Colorectal Neoplasms"	MESH
+MESH:D015179	"colorectal tumors."	"Colorectal Neoplasms"	MESH
+MESH:D015179	CRC	"Colorectal Neoplasms"	MESH
+MESH:D015179	"CRC tumors"	"Colorectal Neoplasms"	MESH
+MESH:D015179	CRC)	"Colorectal Neoplasms"	MESH
+MESH:D015179	CRC-	"Colorectal Neoplasms"	MESH
+MESH:D015179	"Streptococcus gallolyticus bacteria colonizing colorectal tumors:"	"Colorectal Neoplasms"	MESH
+MESH:D015179	"tumor colon"	"Colorectal Neoplasms"	MESH
+MESH:D015451	"B-cell chronic lymphocytic leukemia"	"Leukemia, Lymphocytic, Chronic, B-Cell"	MESH
+MESH:D015451	"chronic lymphocytic leukemia"	"Leukemia, Lymphocytic, Chronic, B-Cell"	MESH
+MESH:D015456	"B-lineage acute lymphocytic leukemia"	"Leukemia, Biphenotypic, Acute"	MESH
+MESH:D015456	"L3 type B-cell acute lymphoblastic leukemia"	"Leukemia, Biphenotypic, Acute"	MESH
+MESH:D015458	"neoplastic T"	"Leukemia, T-Cell"	MESH
+MESH:D015458	"T-cell leukemia/"	"Leukemia, T-Cell"	MESH
+MESH:D015458	"TCR-deficient T"	"Leukemia, T-Cell"	MESH
+MESH:D015464	"chronic myeloid leukemia"	"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"	MESH
+MESH:D015464	"chronic myeloid leukemias"	"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"	MESH
+MESH:D015464	CML	"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"	MESH
+MESH:D015464	CML)	"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"	MESH
+MESH:D015470	AML	"Leukemia, Myeloid, Acute"	MESH
+MESH:D015470	AML)	"Leukemia, Myeloid, Acute"	MESH
+MESH:D015470	AML,	"Leukemia, Myeloid, Acute"	MESH
+MESH:D015470	AML-	"Leukemia, Myeloid, Acute"	MESH
+MESH:D015470	AML-M2	"Leukemia, Myeloid, Acute"	MESH
+MESH:D015470	AML-M4	"Leukemia, Myeloid, Acute"	MESH
+MESH:D015470	AML-M5	"Leukemia, Myeloid, Acute"	MESH
+MESH:D015470	AML.	"Leukemia, Myeloid, Acute"	MESH
+MESH:D015470	"childhood AML."	"Leukemia, Myeloid, Acute"	MESH
+MESH:D015473	"acute promyelocytic leukemia"	"Leukemia, Promyelocytic, Acute"	MESH
+MESH:D015473	"acute promyelocytic leukemia."	"Leukemia, Promyelocytic, Acute"	MESH
+MESH:D015473	"leukemogenesis of acute promyelocytic leukemia"	"Leukemia, Promyelocytic, Acute"	MESH
+MESH:D015490	"HTLV-I infection."	"HTLV-I Infections"	MESH
+MESH:D015658	HIV	"HIV Infections"	MESH
+MESH:D015658	"HIV infection"	"HIV Infections"	MESH
+MESH:D015658	HIV)	"HIV Infections"	MESH
+MESH:D015658	HIV,	"HIV Infections"	MESH
+MESH:D015658	HIV-	"HIV Infections"	MESH
+MESH:D015658	HIV-1-infected	"HIV Infections"	MESH
+MESH:D015658	HIV-infected	"HIV Infections"	MESH
+MESH:D015658	HIV/	"HIV Infections"	MESH
+MESH:D015783	aniridia	Aniridia	MESH
+MESH:D015783	Aniridia,	Aniridia	MESH
+MESH:D015861	neovascular	"Retinal Neovascularization"	MESH
+MESH:D015861	neovasculari	"Retinal Neovascularization"	MESH
+MESH:D015861	"unilateral neovascular"	"Retinal Neovascularization"	MESH
+MESH:D016393	"B cell malignancies."	"Lymphoma, B-Cell"	MESH
+MESH:D016393	"B-cell lymphoma"	"Lymphoma, B-Cell"	MESH
+MESH:D016393	"B-cell lymphoma,"	"Lymphoma, B-Cell"	MESH
+MESH:D016393	"B-cell lymphomas"	"Lymphoma, B-Cell"	MESH
+MESH:D016399	"Angiocentric T-cell lymphoma"	"Lymphoma, T-Cell"	MESH
+MESH:D016399	"Hodgkin-like T-cell lymphoma."	"Lymphoma, T-Cell"	MESH
+MESH:D016399	"lymphoma virus-positive T-cell lymphoma,"	"Lymphoma, T-Cell"	MESH
+MESH:D016399	"T-cell lymphoma"	"Lymphoma, T-Cell"	MESH
+MESH:D016399	"T-cell lymphoma,"	"Lymphoma, T-Cell"	MESH
+MESH:D016399	"T-cell lymphoma."	"Lymphoma, T-Cell"	MESH
+MESH:D016399	"T-cell lymphomas"	"Lymphoma, T-Cell"	MESH
+MESH:D016399	"T-cell lymphomas,"	"Lymphoma, T-Cell"	MESH
+MESH:D016411	"Peripheral T-cell lymphomas"	"Lymphoma, T-Cell, Peripheral"	MESH
+MESH:D016470	bacteremia	Bacteremia	MESH
+MESH:D016510	"Corneal neovascularization"	"Corneal Neovascularization"	MESH
+MESH:D016649	POF	"Primary Ovarian Insufficiency"	MESH
+MESH:D016649	POF)	"Primary Ovarian Insufficiency"	MESH
+MESH:D016649	"premature ovarian failure"	"Primary Ovarian Insufficiency"	MESH
+MESH:D016727	"orbital pseudotumor."	"Orbital Pseudotumor"	MESH
+MESH:D016889	"endometrial cancer."	"Endometrial Neoplasms"	MESH
+MESH:D016891	ADPKD	"Polycystic Kidney, Autosomal Dominant"	MESH
+MESH:D016891	ADPKD)	"Polycystic Kidney, Autosomal Dominant"	MESH
+MESH:D016891	ADPKD.	"Polycystic Kidney, Autosomal Dominant"	MESH
+MESH:D017036	"epilepsia partialis continua"	"Epilepsia Partialis Continua"	MESH
+MESH:D017237	encephalomyopathy	"Mitochondrial Encephalomyopathies"	MESH
+MESH:D017237	encephalomyopathy,	"Mitochondrial Encephalomyopathies"	MESH
+MESH:D017237	"myopathy or encephalomyopathy"	"Mitochondrial Encephalomyopathies"	MESH
+MESH:D017237	myopathy/encephalomyopathy,	"Mitochondrial Encephalomyopathies"	MESH
+MESH:D017240	"mitochondrial myopathies"	"Mitochondrial Myopathies"	MESH
+MESH:D017240	"mitochondrial myopathies."	"Mitochondrial Myopathies"	MESH
+MESH:D017240	"mitochondrial myopathy."	"Mitochondrial Myopathies"	MESH
+MESH:D017492	"seborrheic keratosis"	"Keratosis, Seborrheic"	MESH
+MESH:D017624	WAGR)	"WAGR Syndrome"	MESH
+MESH:D018149	"glucose dysregulation"	"Glucose Intolerance"	MESH
+MESH:D018149	"glucose dysregulation."	"Glucose Intolerance"	MESH
+MESH:D018198	"malignant tumors"	"Mixed Tumor, Malignant"	MESH
+MESH:D018212	"giant-cell tumor of bone"	"Giant Cell Tumor of Bone"	MESH
+MESH:D018212	"giant-cell tumor of bone:"	"Giant Cell Tumor of Bone"	MESH
+MESH:D018256	"adenomatous polyps"	"Adenomatous Polyps"	MESH
+MESH:D018256	"adenomatous polyps."	"Adenomatous Polyps"	MESH
+MESH:D018265	"papillary and follicular carcinomas"	"Carcinoma, Papillary, Follicular"	MESH
+MESH:D018269	"endometrioid endometrial adenocarcinomas"	"Carcinoma, Endometrioid"	MESH
+MESH:D018288	SCLC	"Carcinoma, Small Cell"	MESH
+MESH:D018288	SCLC)	"Carcinoma, Small Cell"	MESH
+MESH:D018307	"squamous cell lung cancer"	"Neoplasms, Squamous Cell"	MESH
+MESH:D018455	"S-OIV disease"	"Protein S Deficiency"	MESH
+MESH:D018500	NDI	"Diabetes Insipidus, Nephrogenic"	MESH
+MESH:D018500	NDI)	"Diabetes Insipidus, Nephrogenic"	MESH
+MESH:D018500	NDI.	"Diabetes Insipidus, Nephrogenic"	MESH
+MESH:D018500	"nephrogenic diabetes insipidus"	"Diabetes Insipidus, Nephrogenic"	MESH
+MESH:D018500	"nephrogenic diabetes insipidus."	"Diabetes Insipidus, Nephrogenic"	MESH
+MESH:D018980	"William Beaumont"	"Williams Syndrome"	MESH
+MESH:D018980	"Williams syndrome"	"Williams Syndrome"	MESH
+MESH:D018980	"Williams syndrome."	"Williams Syndrome"	MESH
+MESH:D018980	Williams-Beuren	"Williams Syndrome"	MESH
+MESH:D018980	WS	"Williams Syndrome"	MESH
+MESH:D018980	WS)	"Williams Syndrome"	MESH
+MESH:D019310	pseudolymphoma,	Pseudolymphoma	MESH
+MESH:D019337	"hematological malignancies,"	"Hematologic Neoplasms"	MESH
+MESH:D019337	"hematological malignancies."	"Hematologic Neoplasms"	MESH
+MESH:D019337	"hematological malignancies:"	"Hematologic Neoplasms"	MESH
+MESH:D019337	"hematological malignancies]"	"Hematologic Neoplasms"	MESH
+MESH:D019636	"neurodegenerative disorder"	"Neurodegenerative Diseases"	MESH
+MESH:D020022	"genetic lesions"	"Genetic Predisposition to Disease"	MESH
+MESH:D020031	EBV	"Epstein-Barr Virus Infections"	MESH
+MESH:D020031	EBV)	"Epstein-Barr Virus Infections"	MESH
+MESH:D020031	EBV-	"Epstein-Barr Virus Infections"	MESH
+MESH:D020031	"EBV-positive lymphomas"	"Epstein-Barr Virus Infections"	MESH
+MESH:D020031	"Epstein-Barr virus"	"Epstein-Barr Virus Infections"	MESH
+MESH:D020031	"Epstein-Barr virus-"	"Epstein-Barr Virus Infections"	MESH
+MESH:D020031	"Epstein-Barr virus-negative lymphoproliferate disorders"	"Epstein-Barr Virus Infections"	MESH
+MESH:D020178	"advanced disease"	"Sleep Disorders, Circadian Rhythm"	MESH
+MESH:D020256	"choroidal neovascular"	"Choroidal Neovascularization"	MESH
+MESH:D020256	"choroidal neovascular endothelial"	"Choroidal Neovascularization"	MESH
+MESH:D020256	"choroidal neovascularization"	"Choroidal Neovascularization"	MESH
+MESH:D020256	"choroidal neovascularization."	"Choroidal Neovascularization"	MESH
+MESH:D020256	"myopic choroidal neovascularization"	"Choroidal Neovascularization"	MESH
+MESH:D020256	"myopic choroidal neovascularization:"	"Choroidal Neovascularization"	MESH
+MESH:D020256	"subfoveal choroidal neovascularization"	"Choroidal Neovascularization"	MESH
+MESH:D020256	"subfoveolar choroidal neovascularization"	"Choroidal Neovascularization"	MESH
+MESH:D020256	"type 2 choroidal neovascular neovascularization"	"Choroidal Neovascularization"	MESH
+MESH:D020256	"type 2 choroidal neovascularization"	"Choroidal Neovascularization"	MESH
+MESH:D020275	"Guillain-Barre polyradiculoneuropathy,"	"Guillain-Barre Syndrome"	MESH
+MESH:D020275	"Guillain-Barre syndrome."	"Guillain-Barre Syndrome"	MESH
+MESH:D020295	"hypodiploid stem"	"Brain Stem Neoplasms"	MESH
+MESH:D020762	"posterior ciliary artery"	"Infarction, Posterior Cerebral Artery"	MESH
+MESH:D020820	dyskinesia	Dyskinesias	MESH
+MESH:D020820	dyskinesias	Dyskinesias	MESH
+MESH:D020820	"dyskinesias for the levodopa"	Dyskinesias	MESH
+MESH:D020914	"congenital structural abnormalities"	"Myopathies, Structural, Congenital"	MESH
+MESH:D020914	"structural abnormalities,"	"Myopathies, Structural, Congenital"	MESH
+MESH:D021441	"pancreatic ductal adenocarcinoma"	"Carcinoma, Pancreatic Ductal"	MESH
+MESH:D021441	"pancreatic ductal adenocarcinoma."	"Carcinoma, Pancreatic Ductal"	MESH
+MESH:D024182	"Kras disomy"	"Uniparental Disomy"	MESH
+MESH:D028361	"mitochondrial syndrome."	"Mitochondrial Diseases"	MESH
+MESH:D030342	"genetic aberrations"	"Genetic Diseases, Inborn"	MESH
+MESH:D030342	"Genetic abnormalities"	"Genetic Diseases, Inborn"	MESH
+MESH:D030342	"genetic defect"	"Genetic Diseases, Inborn"	MESH
+MESH:D030342	"genetic diseases"	"Genetic Diseases, Inborn"	MESH
+MESH:D030342	"genetic disorder"	"Genetic Diseases, Inborn"	MESH
+MESH:D030342	"genetic disorder."	"Genetic Diseases, Inborn"	MESH
+MESH:D030342	"genetic disorders."	"Genetic Diseases, Inborn"	MESH
+MESH:D030342	"recessively inherited disease"	"Genetic Diseases, Inborn"	MESH
+MESH:D034381	"hearing impairment,"	"Hearing Loss"	MESH
+MESH:D034381	"hearing loss."	"Hearing Loss"	MESH
+MESH:D035583	"rare heterogeneous disorder"	"Rare Diseases"	MESH
+MESH:D042822	"genomic abnormalities"	"Genomic Instability"	MESH
+MESH:D044584	"invasive ductal carcinoma"	"Carcinoma, Ductal"	MESH
+MESH:D044882	"dysregulation of glucose metabolism"	"Glucose Metabolism Disorders"	MESH
+MESH:D044882	"dysregulation of glucose metabolism."	"Glucose Metabolism Disorders"	MESH
+MESH:D046110	"gestational hypertension,"	"Hypertension, Pregnancy-Induced"	MESH
+MESH:D047728	"pathologic myopia."	"Myopia, Degenerative"	MESH
+MESH:D047728	"pathologic myopia:"	"Myopia, Degenerative"	MESH
+MESH:D047728	"unilateral neovascular degenerative myopia"	"Myopia, Degenerative"	MESH
+MESH:D049932	NBS,	"Nijmegen Breakage Syndrome"	MESH
+MESH:D050500	"chronic pancreatitis,"	"Pancreatitis, Chronic"	MESH
+MESH:D050500	"chronic pancreatitis."	"Pancreatitis, Chronic"	MESH
+MESH:D050500	"familial chronic pancreatitis,"	"Pancreatitis, Chronic"	MESH
+MESH:D050500	"idiopathic chronic pancreatitis,"	"Pancreatitis, Chronic"	MESH
+MESH:D053306	"hyper-altruism syndrome"	"Hyper-IgM Immunodeficiency Syndrome"	MESH
+MESH:D053306	"hyper-selfishness syndrome"	"Hyper-IgM Immunodeficiency Syndrome"	MESH
+MESH:D053713	azoospermia	Azoospermia	MESH
+MESH:D054058	"acute coronary syndromes"	"Acute Coronary Syndrome"	MESH
+MESH:D054081	"impairs neuronal migration."	"Malformations of Cortical Development, Group II"	MESH
+MESH:D054081	"neuronal migration"	"Malformations of Cortical Development, Group II"	MESH
+MESH:D054081	"neuronal migration."	"Malformations of Cortical Development, Group II"	MESH
+MESH:D054082	pachygyria,	Lissencephaly	MESH
+MESH:D054198	"acute lymphoblastic leukaemia"	"Precursor Cell Lymphoblastic Leukemia-Lymphoma"	MESH
+MESH:D054198	"acute lymphoblastic leukaemia."	"Precursor Cell Lymphoblastic Leukemia-Lymphoma"	MESH
+MESH:D054198	"acute lymphoblastic leukemia"	"Precursor Cell Lymphoblastic Leukemia-Lymphoma"	MESH
+MESH:D054198	ALL	"Precursor Cell Lymphoblastic Leukemia-Lymphoma"	MESH
+MESH:D054198	ALL)	"Precursor Cell Lymphoblastic Leukemia-Lymphoma"	MESH
+MESH:D054198	"childhood acute lymphoblastic leukemia"	"Precursor Cell Lymphoblastic Leukemia-Lymphoma"	MESH
+MESH:D054198	"hyperdiploid abnormalities"	"Precursor Cell Lymphoblastic Leukemia-Lymphoma"	MESH
+MESH:D054198	"T-lymphoblastic lymphoma."	"Precursor Cell Lymphoblastic Leukemia-Lymphoma"	MESH
+MESH:D054218	"T-lineage acute lymphoblastic leukemia"	"Precursor T-Cell Lymphoblastic Leukemia-Lymphoma"	MESH
+MESH:D054218	"T-lineage acute lymphoblastic leukemia."	"Precursor T-Cell Lymphoblastic Leukemia-Lymphoma"	MESH
+MESH:D054221	MDS	"Classical Lissencephalies and Subcortical Band Heterotopias"	MESH
+MESH:D054221	MDS)	"Classical Lissencephalies and Subcortical Band Heterotopias"	MESH
+MESH:D054221	MDS.	"Classical Lissencephalies and Subcortical Band Heterotopias"	MESH
+MESH:D054331	"Sertoli cell-only syndrome"	"Sertoli Cell-Only Syndrome"	MESH
+MESH:D056730	RSS)	"Silver-Russell Syndrome"	MESH
+MESH:D057092	"geographic atrophy"	"Geographic Atrophy"	MESH
+MESH:D057130	"blindness worldwide,"	"Leber Congenital Amaurosis"	MESH
+MESH:D058490	"male pseudohermaphroditism"	"46, XY Disorders of Sex Development"	MESH
+MESH:D058495	"FOXL2 haploinsufficiency"	"Sotos Syndrome"	MESH
+MESH:D058495	haploinsufficiency	"Sotos Syndrome"	MESH
+MESH:D058496	"Smith-Magenis syndrome"	"Smith-Magenis Syndrome"	MESH
+MESH:D058496	SMS	"Smith-Magenis Syndrome"	MESH
+MESH:D058496	SMS)	"Smith-Magenis Syndrome"	MESH
+MESH:D058496	SMS,	"Smith-Magenis Syndrome"	MESH
+MESH:D058496	SMS.	"Smith-Magenis Syndrome"	MESH
+MESH:D060085	HBV-HIV-coinfected	Coinfection	MESH
+MESH:D060085	"hepatitis B virus coinfected"	Coinfection	MESH
+MESH:D061325	"breast and ovarian cancer"	"Hereditary Breast and Ovarian Cancer Syndrome"	MESH
+MESH:D061325	"breast and/or ovarian cancer"	"Hereditary Breast and Ovarian Cancer Syndrome"	MESH
+MESH:D061325	"breast/ovarian cancer"	"Hereditary Breast and Ovarian Cancer Syndrome"	MESH
+OMIM:105250	PCA	"Amyloidosis IX"	OMIM
+OMIM:105250	PCA)	"Amyloidosis IX"	OMIM
+OMIM:125700	CDI)	"Diabetes Insipidus, Neurogenic"	OMIM
+OMIM:168600	PD	"PARKINSON DISEASE, LATE-ONSET"	OMIM
+OMIM:168600	PD)	"PARKINSON DISEASE, LATE-ONSET"	OMIM
+OMIM:168600	PD.	"PARKINSON DISEASE, LATE-ONSET"	OMIM
+OMIM:192315	CRV	"Vasculopathy, Retinal, With Cerebral Leukodystrophy"	OMIM
+OMIM:192315	CRV)	"Vasculopathy, Retinal, With Cerebral Leukodystrophy"	OMIM
+OMIM:192315	CRV,	"Vasculopathy, Retinal, With Cerebral Leukodystrophy"	OMIM
+OMIM:192315	CRV.	"Vasculopathy, Retinal, With Cerebral Leukodystrophy"	OMIM
+OMIM:209500	APL	"Atrichia with Papular Lesions"	OMIM
+OMIM:209500	APL)	"Atrichia with Papular Lesions"	OMIM
+OMIM:209500	APL,	"Atrichia with Papular Lesions"	OMIM
+OMIM:209500	APL.	"Atrichia with Papular Lesions"	OMIM
+OMIM:211750	"C.trachomatis and C.pneumoniae,"	"C SYNDROME"	OMIM
+OMIM:239200	"idiopathic severe primary testiculopathy"	"Hyperparathyroidism, Neonatal Severe Primary"	OMIM
+OMIM:244400	PCD)	"Kartagener Syndrome"	OMIM
+OMIM:274230	neoplasias.	"Thymoma, Familial"	OMIM
+OMIM:300000	OS	"Opitz GBBB Syndrome, X-Linked"	OMIM
+OMIM:300000	"OS tumors"	"Opitz GBBB Syndrome, X-Linked"	OMIM
+OMIM:300000	OS.	"Opitz GBBB Syndrome, X-Linked"	OMIM
+OMIM:300000	OSs	"Opitz GBBB Syndrome, X-Linked"	OMIM
+OMIM:307150	CGH	"Hypertrichosis congenital generalized X-linked"	OMIM
+OMIM:307150	CGH)	"Hypertrichosis congenital generalized X-linked"	OMIM
+OMIM:307150	CGH,	"Hypertrichosis congenital generalized X-linked"	OMIM
+OMIM:415000	AZF	"Spermatogenic Failure, Nonobstructive, Y-Linked"	OMIM
+OMIM:415000	AZF)	"Spermatogenic Failure, Nonobstructive, Y-Linked"	OMIM
+OMIM:415000	AZFa	"Spermatogenic Failure, Nonobstructive, Y-Linked"	OMIM
+OMIM:415000	AZFb	"Spermatogenic Failure, Nonobstructive, Y-Linked"	OMIM
+OMIM:415000	AZFc	"Spermatogenic Failure, Nonobstructive, Y-Linked"	OMIM
+OMIM:604168	"facial dysmorphic"	"Congenital Cataracts, Facial Dysmorphism, And Neuropathy"	OMIM
+OMIM:605027	NHL)	"Lymphoma, Non-Hodgkin"	OMIM
+OMIM:605711	"mitochondrial dysfunction"	"MULTIPLE MITOCHONDRIAL DYSFUNCTIONS SYNDROME 1"	OMIM
+OMIM:605711	"mitochondrial dysfunction,"	"MULTIPLE MITOCHONDRIAL DYSFUNCTIONS SYNDROME 1"	OMIM
+OMIM:608189	"tropical calcific pancreatitis,"	"Tropical Calcific Pancreatitis"	OMIM
+OMIM:610102	"late positive component"	"Complement Component 7 Deficiency"	OMIM
+OMIM:610253	"Familial Kleefstra syndrome"	"Kleefstra Syndrome"	OMIM
+OMIM:610253	"Kleefstra syndrome"	"Kleefstra Syndrome"	OMIM
+OMIM:611302	"spastic ataxia"	"Ataxia, Spastic, 2, Autosomal Recessive"	OMIM
