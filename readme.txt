@@ -11,7 +11,7 @@ http://github.com/yangxi1016/CNVision/picture/3.png
 
 3) input a PubMed article ID (PMID) or a list of PMIDs to find CNV-diseases correlation in those articles. 
 
-http://github.com/yangxi1016/CNVision/raw/master/picture4.png
-(http://github.com/yangxi1016/CNVision/raw/master/picture4.png)
+http://github.com/yangxi1016/CNVision/raw/master/picture/4.png
+(http://github.com/yangxi1016/CNVision/raw/master/picture/4.png)
 
 The results include a statistical summary and details of evidences from literature.
