@@ -1,6 +1,6 @@
  ![image](http://github.com/yangxi1016/CNVision/picture/2.png)
 Three different query perspectives to users: 
-
+![image]((https://github.com/yangxi1016/CNVision/blob/master/picture/1.png)
 1) input a CNV to find the most relevant diseases as described in literature; 
 
 http://github.com/yangxi1016/CNVision/picture/3.png
