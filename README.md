@@ -4,7 +4,8 @@ Genetic diseases are usually caused by chromosomal abnormalities, copy number va
 
 
 ![image](https://github.com/yangxi1016/picture-cnvision/raw/master/1.png )
- Three different query perspectives to users: 
+
+Three different query perspectives to users: 
 
  1) input a CNV to find the most relevant diseases as described in literature; 
 
@@ -15,6 +16,7 @@ Genetic diseases are usually caused by chromosomal abnormalities, copy number va
 ![image](https://github.com/yangxi1016/picture-cnvision/raw/master/3.png )
 
  3) input a PubMed article ID (PMID) or a list of PMIDs to find CNV-diseases correlation in those articles.  
+
 ![image](https://github.com/yangxi1016/picture-cnvision/raw/master/4.png )
 
 The results include a statistical summary and details of evidences from literature.
