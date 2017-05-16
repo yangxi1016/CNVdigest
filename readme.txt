@@ -1,9 +1,9 @@
-(http://github.com/yourname/CNVision/picture/2.png)
+(http://github.com/yangxi1016/CNVision/picture/2.png)
 Three different query perspectives to users: 
 
 1) input a CNV to find the most relevant diseases as described in literature; 
 
-http://github.com/yourname/CNVision/picture/3.png
+http://github.com/yangxi1016/CNVision/picture/3.png
 
 2) input a disease name or select one disease from a given list (indexed by disease MeSH terms) to find related CNVs;
 
@@ -11,6 +11,7 @@ http://github.com/yourname/CNVision/picture/3.png
 
 3) input a PubMed article ID (PMID) or a list of PMIDs to find CNV-diseases correlation in those articles. 
 
-http://github.com/yourname/CNVision/master/picture4.png
+http://github.com/yangxi1016/CNVision/raw/master/picture4.png
+(http://github.com/yangxi1016/CNVision/raw/master/picture4.png)
 
 The results include a statistical summary and details of evidences from literature.
