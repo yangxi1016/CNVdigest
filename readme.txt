@@ -1,9 +1,9 @@
-http://github.com/yourname/CNVision/master/picture/2.png
+http://github.com/yourname/CNVision/picture/2.png
 Three different query perspectives to users: 
 
 1) input a CNV to find the most relevant diseases as described in literature; 
 
-http://github.com/yourname/CNVision/master/picture/3.png
+http://github.com/yourname/CNVision/picture/3.png
 
 2) input a disease name or select one disease from a given list (indexed by disease MeSH terms) to find related CNVs;
 
